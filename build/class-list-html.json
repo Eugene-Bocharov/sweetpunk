@@ -1,0 +1,2215 @@
+{
+     "length": 262,
+     "chrome": {
+          "value": "chrome",
+          "dependences": [
+               1096
+          ]
+     },
+     "desktop": {
+          "value": "desktop",
+          "dependences": [
+               1103
+          ]
+     },
+     "pre_loader": {
+          "value": "pre_loader",
+          "dependences": [
+               1129
+          ]
+     },
+     "js-counting": {
+          "value": "js-counting",
+          "dependences": [
+               1161
+          ]
+     },
+     "screen-transformation": {
+          "value": "screen-transformation",
+          "dependences": [
+               1210
+          ]
+     },
+     "logick-sceen-transformation-text": {
+          "value": "logick-sceen-transformation-text",
+          "dependences": [
+               1253
+          ]
+     },
+     "txt-screen": {
+          "value": "txt-screen",
+          "dependences": [
+               1286
+          ]
+     },
+     "title-hecto": {
+          "value": "title-hecto",
+          "dependences": [
+               1297,
+               70383,
+               73780,
+               77371
+          ]
+     },
+     "logick-sceen-transformation-bar": {
+          "value": "logick-sceen-transformation-bar",
+          "dependences": [
+               1341
+          ]
+     },
+     "screen-transformation__bar": {
+          "value": "screen-transformation__bar",
+          "dependences": [
+               1373
+          ]
+     },
+     "logick-sceen-transformation-progress": {
+          "value": "logick-sceen-transformation-progress",
+          "dependences": [
+               1432
+          ]
+     },
+     "screen-transformation__progress": {
+          "value": "screen-transformation__progress",
+          "dependences": [
+               1469
+          ]
+     },
+     "ct": {
+          "value": "ct",
+          "dependences": [
+               1562,
+               8301,
+               10947,
+               13341,
+               13483,
+               14471,
+               14652,
+               16613,
+               16949,
+               17406,
+               18761,
+               20402,
+               21746,
+               23359,
+               24642,
+               25971,
+               26152,
+               29241,
+               29500,
+               30375,
+               30767,
+               31194,
+               31645,
+               34376,
+               34817,
+               37514,
+               37955,
+               40648,
+               41089,
+               43781,
+               44222,
+               46911,
+               47352,
+               50265,
+               50554,
+               50926,
+               51291,
+               65670,
+               65917,
+               66790,
+               66982,
+               67548,
+               67879,
+               68026,
+               69031,
+               71309,
+               71456,
+               72429,
+               74895,
+               75042,
+               76014,
+               78385,
+               78626,
+               79710,
+               80093
+          ]
+     },
+     "ct--menu": {
+          "value": "ct--menu",
+          "dependences": [
+               1565
+          ]
+     },
+     "background": {
+          "value": "background",
+          "dependences": [
+               1616
+          ]
+     },
+     "c-full": {
+          "value": "c-full",
+          "dependences": [
+               1653,
+               12535,
+               13624,
+               14553,
+               30505,
+               50377,
+               66866,
+               79748,
+               85300
+          ]
+     },
+     "js-wrapper": {
+          "value": "js-wrapper",
+          "dependences": [
+               1660
+          ]
+     },
+     "c-wrapper": {
+          "value": "c-wrapper",
+          "dependences": [
+               1693,
+               12572,
+               13663,
+               14590,
+               30542,
+               30679,
+               50434,
+               66920,
+               79793,
+               85348
+          ]
+     },
+     "logo": {
+          "value": "logo",
+          "dependences": [
+               1727
+          ]
+     },
+     "navs": {
+          "value": "navs",
+          "dependences": [
+               6104
+          ]
+     },
+     "item": {
+          "value": "item",
+          "dependences": [
+               6175,
+               6586,
+               7001,
+               7424,
+               7835,
+               8246
+          ]
+     },
+     "link": {
+          "value": "link",
+          "dependences": [
+               6318,
+               6729,
+               7144,
+               7567,
+               7978,
+               9075,
+               9579,
+               10098
+          ]
+     },
+     "little-text": {
+          "value": "little-text",
+          "dependences": [
+               6323,
+               6734,
+               7149,
+               7572,
+               7983,
+               68237,
+               70152,
+               71667,
+               73549,
+               75253,
+               77139,
+               82194,
+               82662,
+               85406,
+               86163
+          ]
+     },
+     "little-text--14": {
+          "value": "little-text--14",
+          "dependences": [
+               6335,
+               6746,
+               7161,
+               7584,
+               7995
+          ]
+     },
+     "js-ajax-link-menu": {
+          "value": "js-ajax-link-menu",
+          "dependences": [
+               6351,
+               6762,
+               7177,
+               7600,
+               8011
+          ]
+     },
+     "ct--rounded-btn": {
+          "value": "ct--rounded-btn",
+          "dependences": [
+               8304,
+               29503,
+               65920,
+               78629,
+               80096
+          ]
+     },
+     "rounded-btn": {
+          "value": "rounded-btn",
+          "dependences": [
+               8320,
+               29519,
+               65936,
+               78645,
+               80112
+          ]
+     },
+     "rounded-btn__hit": {
+          "value": "rounded-btn__hit",
+          "dependences": [
+               8573,
+               29825,
+               66222,
+               78825,
+               80387
+          ]
+     },
+     "js-hit": {
+          "value": "js-hit",
+          "dependences": [
+               8590,
+               29842,
+               66239,
+               78842,
+               80404
+          ]
+     },
+     "rounded-btn__border": {
+          "value": "rounded-btn__border",
+          "dependences": [
+               8637,
+               29891,
+               66290,
+               78893,
+               80451
+          ]
+     },
+     "js-btn-border": {
+          "value": "js-btn-border",
+          "dependences": [
+               8657,
+               29911,
+               66310,
+               78913,
+               80471
+          ]
+     },
+     "rounded-btn__text": {
+          "value": "rounded-btn__text",
+          "dependences": [
+               8711,
+               29967,
+               66368,
+               78971,
+               80525
+          ]
+     },
+     "js-text": {
+          "value": "js-text",
+          "dependences": [
+               8729,
+               14857,
+               29985,
+               30972,
+               50767,
+               66386,
+               67187,
+               78989,
+               80543
+          ]
+     },
+     "rounded-btn__bar": {
+          "value": "rounded-btn__bar",
+          "dependences": [
+               8785,
+               30110,
+               66505,
+               79110,
+               80657
+          ]
+     },
+     "rounded-btn__progress": {
+          "value": "rounded-btn__progress",
+          "dependences": [
+               8838,
+               30165,
+               66562,
+               79167,
+               80710
+          ]
+     },
+     "socials": {
+          "value": "socials",
+          "dependences": [
+               9002,
+               83029
+          ]
+     },
+     "icon": {
+          "value": "icon",
+          "dependences": [
+               9343,
+               9858,
+               10375,
+               83407,
+               83926,
+               84450,
+               84975,
+               89777
+          ]
+     },
+     "svg-social-network-twitter": {
+          "value": "svg-social-network-twitter",
+          "dependences": [
+               9348,
+               83412
+          ]
+     },
+     "svg-social-network-instagram": {
+          "value": "svg-social-network-instagram",
+          "dependences": [
+               9863,
+               84455
+          ]
+     },
+     "svg-social-network-linkedin": {
+          "value": "svg-social-network-linkedin",
+          "dependences": [
+               10380,
+               84980
+          ]
+     },
+     "webgl": {
+          "value": "webgl",
+          "dependences": [
+               10644
+          ]
+     },
+     "app-wrapper": {
+          "value": "app-wrapper",
+          "dependences": [
+               10698
+          ]
+     },
+     "scroll-wrapper": {
+          "value": "scroll-wrapper",
+          "dependences": [
+               10730
+          ]
+     },
+     "page": {
+          "value": "page",
+          "dependences": [
+               10871
+          ]
+     },
+     "homepage-index": {
+          "value": "homepage-index",
+          "dependences": [
+               10876
+          ]
+     },
+     "home": {
+          "value": "home",
+          "dependences": [
+               10891
+          ]
+     },
+     "ct--hp-header": {
+          "value": "ct--hp-header",
+          "dependences": [
+               10950
+          ]
+     },
+     "hp-header": {
+          "value": "hp-header",
+          "dependences": [
+               10964
+          ]
+     },
+     "hp-header__cover": {
+          "value": "hp-header__cover",
+          "dependences": [
+               11862
+          ]
+     },
+     "js-cover": {
+          "value": "js-cover",
+          "dependences": [
+               11879
+          ]
+     },
+     "hp-header__cursor": {
+          "value": "hp-header__cursor",
+          "dependences": [
+               12184
+          ]
+     },
+     "js-cursor": {
+          "value": "js-cursor",
+          "dependences": [
+               12202
+          ]
+     },
+     "hp-header__cursor-circle": {
+          "value": "hp-header__cursor-circle",
+          "dependences": [
+               12242
+          ]
+     },
+     "js-cursorCircle": {
+          "value": "js-cursorCircle",
+          "dependences": [
+               12267
+          ]
+     },
+     "hp-header__cursor-play": {
+          "value": "hp-header__cursor-play",
+          "dependences": [
+               12368
+          ]
+     },
+     "js-cursorPlay": {
+          "value": "js-cursorPlay",
+          "dependences": [
+               12391
+          ]
+     },
+     "hp-header__cursor-pause": {
+          "value": "hp-header__cursor-pause",
+          "dependences": [
+               12441
+          ]
+     },
+     "js-cursorPause": {
+          "value": "js-cursorPause",
+          "dependences": [
+               12465
+          ]
+     },
+     "hp-header__text-wrapper": {
+          "value": "hp-header__text-wrapper",
+          "dependences": [
+               12614
+          ]
+     },
+     "js-textWrapper": {
+          "value": "js-textWrapper",
+          "dependences": [
+               12638
+          ]
+     },
+     "hp-header__title": {
+          "value": "hp-header__title",
+          "dependences": [
+               12686
+          ]
+     },
+     "js-title": {
+          "value": "js-title",
+          "dependences": [
+               12703
+          ]
+     },
+     "hp-header__subtitle": {
+          "value": "hp-header__subtitle",
+          "dependences": [
+               12815
+          ]
+     },
+     "js-subtitle": {
+          "value": "js-subtitle",
+          "dependences": [
+               12835
+          ]
+     },
+     "hp-header__scroll": {
+          "value": "hp-header__scroll",
+          "dependences": [
+               13016
+          ]
+     },
+     "js-scroll": {
+          "value": "js-scroll",
+          "dependences": [
+               13034
+          ]
+     },
+     "hp-header__scroll-icon": {
+          "value": "hp-header__scroll-icon",
+          "dependences": [
+               13074,
+               13146,
+               13218
+          ]
+     },
+     "js-scroll-el": {
+          "value": "js-scroll-el",
+          "dependences": [
+               13097,
+               13169,
+               13241
+          ]
+     },
+     "ct--agency-insight": {
+          "value": "ct--agency-insight",
+          "dependences": [
+               13344
+          ]
+     },
+     "agency-insight_1": {
+          "value": "agency-insight_1",
+          "dependences": [
+               13363
+          ]
+     },
+     "ct--hp-insight": {
+          "value": "ct--hp-insight",
+          "dependences": [
+               13486
+          ]
+     },
+     "hp-insight": {
+          "value": "hp-insight",
+          "dependences": [
+               13501
+          ]
+     },
+     "big": {
+          "value": "big",
+          "dependences": [
+               13512
+          ]
+     },
+     "gl-heat-background": {
+          "value": "gl-heat-background",
+          "dependences": [
+               13516
+          ]
+     },
+     "hp-insight__copy-container": {
+          "value": "hp-insight__copy-container",
+          "dependences": [
+               13707
+          ]
+     },
+     "hp-insight__copy-content": {
+          "value": "hp-insight__copy-content",
+          "dependences": [
+               13770
+          ]
+     },
+     "hp-insight__copy-heading": {
+          "value": "hp-insight__copy-heading",
+          "dependences": [
+               13858
+          ]
+     },
+     "js-hp-insight__copy-heading": {
+          "value": "js-hp-insight__copy-heading",
+          "dependences": [
+               13883
+          ]
+     },
+     "hp-insight__copy-text": {
+          "value": "hp-insight__copy-text",
+          "dependences": [
+               14069
+          ]
+     },
+     "js-hp-insight__copy-text": {
+          "value": "js-hp-insight__copy-text",
+          "dependences": [
+               14091
+          ]
+     },
+     "ct--hp-awards": {
+          "value": "ct--hp-awards",
+          "dependences": [
+               14474
+          ]
+     },
+     "hp-awards": {
+          "value": "hp-awards",
+          "dependences": [
+               14488
+          ]
+     },
+     "ct--section-info": {
+          "value": "ct--section-info",
+          "dependences": [
+               14655,
+               30770,
+               50557,
+               66985
+          ]
+     },
+     "section-info": {
+          "value": "section-info",
+          "dependences": [
+               14672,
+               30787,
+               50574,
+               67002
+          ]
+     },
+     "is-sticky": {
+          "value": "is-sticky",
+          "dependences": [
+               14685,
+               30800,
+               50587,
+               67015
+          ]
+     },
+     "section-info__text": {
+          "value": "section-info__text",
+          "dependences": [
+               14838,
+               30953,
+               50748,
+               67168
+          ]
+     },
+     "hp-awards__container": {
+          "value": "hp-awards__container",
+          "dependences": [
+               14936
+          ]
+     },
+     "hp-awards__head": {
+          "value": "hp-awards__head",
+          "dependences": [
+               14991
+          ]
+     },
+     "hp-awards__title": {
+          "value": "hp-awards__title",
+          "dependences": [
+               15042
+          ]
+     },
+     "js-hp-awards__title": {
+          "value": "js-hp-awards__title",
+          "dependences": [
+               15059
+          ]
+     },
+     "hp-awards__copy": {
+          "value": "hp-awards__copy",
+          "dependences": [
+               15201
+          ]
+     },
+     "js-hp-awards__copy": {
+          "value": "js-hp-awards__copy",
+          "dependences": [
+               15217
+          ]
+     },
+     "hp-awards__copy-frag": {
+          "value": "hp-awards__copy-frag",
+          "dependences": [
+               15272,
+               15444,
+               15618,
+               15790
+          ]
+     },
+     "js-copy-frag": {
+          "value": "js-copy-frag",
+          "dependences": [
+               15293,
+               15465,
+               15639,
+               15811
+          ]
+     },
+     "hp-awards__copy-frag-common": {
+          "value": "hp-awards__copy-frag-common",
+          "dependences": [
+               16029
+          ]
+     },
+     "js-copy-common": {
+          "value": "js-copy-common",
+          "dependences": [
+               16057
+          ]
+     },
+     "hp-awards__deco": {
+          "value": "hp-awards__deco",
+          "dependences": [
+               16170
+          ]
+     },
+     "hp-awards__deco-letter": {
+          "value": "hp-awards__deco-letter",
+          "dependences": [
+               16225
+          ]
+     },
+     "hp-awards__deco-circle": {
+          "value": "hp-awards__deco-circle",
+          "dependences": [
+               16320
+          ]
+     },
+     "gl-circle": {
+          "value": "gl-circle",
+          "dependences": [
+               16343
+          ]
+     },
+     "ct--section-counter": {
+          "value": "ct--section-counter",
+          "dependences": [
+               16616,
+               51294,
+               67551
+          ]
+     },
+     "section-counter": {
+          "value": "section-counter",
+          "dependences": [
+               16636,
+               51314,
+               67571
+          ]
+     },
+     "ct--hp-award-list": {
+          "value": "ct--hp-award-list",
+          "dependences": [
+               16952
+          ]
+     },
+     "hp-award-list": {
+          "value": "hp-award-list",
+          "dependences": [
+               16970
+          ]
+     },
+     "hp-award-list__el": {
+          "value": "hp-award-list__el",
+          "dependences": [
+               17172,
+               20153,
+               23114
+          ]
+     },
+     "js-hp-award-list__el": {
+          "value": "js-hp-award-list__el",
+          "dependences": [
+               17190,
+               20171,
+               23132
+          ]
+     },
+     "ct--line": {
+          "value": "ct--line",
+          "dependences": [
+               17409,
+               20405,
+               23362,
+               26155,
+               29244,
+               65673,
+               68029,
+               71459,
+               75045,
+               78388
+          ]
+     },
+     "line": {
+          "value": "line",
+          "dependences": [
+               17418,
+               20414,
+               23371,
+               26164,
+               29253,
+               65682,
+               68038,
+               71468,
+               75054,
+               78397,
+               79831,
+               81860,
+               81924
+          ]
+     },
+     "hp-award-list__line": {
+          "value": "hp-award-list__line",
+          "dependences": [
+               17423,
+               20419,
+               23376
+          ]
+     },
+     "js-hp-award-list__line": {
+          "value": "js-hp-award-list__line",
+          "dependences": [
+               17443,
+               20439,
+               23396
+          ]
+     },
+     "animation-in": {
+          "value": "animation-in",
+          "dependences": [
+               17466,
+               20462,
+               23419,
+               26218,
+               29310,
+               65704,
+               68063,
+               71493,
+               75079,
+               78416
+          ]
+     },
+     "animation-in-timing": {
+          "value": "animation-in-timing",
+          "dependences": [
+               17479,
+               20475,
+               23432,
+               26231,
+               29323,
+               65717,
+               68076,
+               71506,
+               75092,
+               78429
+          ]
+     },
+     "hp-award-list__head": {
+          "value": "hp-award-list__head",
+          "dependences": [
+               17617,
+               20613,
+               23570
+          ]
+     },
+     "js-head": {
+          "value": "js-head",
+          "dependences": [
+               17637,
+               20633,
+               23590,
+               33473,
+               36649,
+               39780,
+               42915,
+               46036,
+               49214
+          ]
+     },
+     "hp-award-list__title": {
+          "value": "hp-award-list__title",
+          "dependences": [
+               17712,
+               20708,
+               23665
+          ]
+     },
+     "js-hp-award-list__title": {
+          "value": "js-hp-award-list__title",
+          "dependences": [
+               17733,
+               20729,
+               23686
+          ]
+     },
+     "hp-award-list__price": {
+          "value": "hp-award-list__price",
+          "dependences": [
+               17933,
+               20944,
+               23896
+          ]
+     },
+     "js-hp-award-list__price": {
+          "value": "js-hp-award-list__price",
+          "dependences": [
+               17954,
+               20965,
+               23917
+          ]
+     },
+     "hp-award-list__img-container": {
+          "value": "hp-award-list__img-container",
+          "dependences": [
+               18143,
+               21152,
+               24104
+          ]
+     },
+     "js-imgContainer": {
+          "value": "js-imgContainer",
+          "dependences": [
+               18172,
+               21181,
+               24133
+          ]
+     },
+     "hp-award-list__img-overlay": {
+          "value": "hp-award-list__img-overlay",
+          "dependences": [
+               18380,
+               21389,
+               24341
+          ]
+     },
+     "js-overlay": {
+          "value": "js-overlay",
+          "dependences": [
+               18407,
+               21416,
+               24368
+          ]
+     },
+     "hp-award-list__idea": {
+          "value": "hp-award-list__idea",
+          "dependences": [
+               18489,
+               21498,
+               24450
+          ]
+     },
+     "js-idea": {
+          "value": "js-idea",
+          "dependences": [
+               18509,
+               21518,
+               24470
+          ]
+     },
+     "ct--image-cursor": {
+          "value": "ct--image-cursor",
+          "dependences": [
+               18764,
+               21749,
+               24645,
+               31648,
+               34820,
+               37958,
+               41092,
+               44225,
+               47355,
+               69034,
+               72432,
+               76017
+          ]
+     },
+     "image-cursor": {
+          "value": "image-cursor",
+          "dependences": [
+               18781,
+               21766,
+               24662,
+               31665,
+               34837,
+               37975,
+               41109,
+               44242,
+               47372,
+               69051,
+               72449,
+               76034
+          ]
+     },
+     "image-cursor__background": {
+          "value": "image-cursor__background",
+          "dependences": [
+               18951,
+               21936,
+               24832,
+               69229,
+               72627,
+               76212
+          ]
+     },
+     "js-img": {
+          "value": "js-img",
+          "dependences": [
+               18976,
+               21961,
+               24857,
+               69254,
+               72652,
+               76237
+          ]
+     },
+     "image-cursor__circle": {
+          "value": "image-cursor__circle",
+          "dependences": [
+               19226,
+               19335,
+               19503,
+               22214,
+               22323,
+               22491,
+               25109,
+               25218,
+               25386,
+               32589,
+               32690,
+               32846,
+               35770,
+               35871,
+               36027,
+               38911,
+               39012,
+               39168,
+               42041,
+               42142,
+               42298,
+               45158,
+               45259,
+               45415,
+               48322,
+               48423,
+               48579,
+               69543,
+               69656,
+               69830,
+               72940,
+               73053,
+               73227,
+               76530,
+               76643,
+               76817
+          ]
+     },
+     "js-circle": {
+          "value": "js-circle",
+          "dependences": [
+               19247,
+               22235,
+               25130,
+               32610,
+               35791,
+               38932,
+               42062,
+               45179,
+               48343,
+               69564,
+               72961,
+               76551
+          ]
+     },
+     "image-cursor__circle--top": {
+          "value": "image-cursor__circle--top",
+          "dependences": [
+               19356,
+               22344,
+               25239,
+               32711,
+               35892,
+               39033,
+               42163,
+               45280,
+               48444,
+               69677,
+               73074,
+               76664
+          ]
+     },
+     "js-circle-top": {
+          "value": "js-circle-top",
+          "dependences": [
+               19382,
+               22370,
+               25265,
+               32737,
+               35918,
+               39059,
+               42189,
+               45306,
+               48470,
+               69703,
+               73100,
+               76690
+          ]
+     },
+     "image-cursor__circle--above": {
+          "value": "image-cursor__circle--above",
+          "dependences": [
+               19524,
+               22512,
+               25407,
+               32867,
+               36048,
+               39189,
+               42319,
+               45436,
+               48600,
+               69851,
+               73248,
+               76838
+          ]
+     },
+     "js-circle-above": {
+          "value": "js-circle-above",
+          "dependences": [
+               19552,
+               22540,
+               25435,
+               32895,
+               36076,
+               39217,
+               42347,
+               45464,
+               48628,
+               69879,
+               73276,
+               76866
+          ]
+     },
+     "image-cursor__icon": {
+          "value": "image-cursor__icon",
+          "dependences": [
+               19645,
+               22633,
+               25528,
+               32980,
+               36161,
+               39302,
+               42432,
+               45549,
+               48713,
+               69976,
+               73373,
+               76963
+          ]
+     },
+     "js-icon": {
+          "value": "js-icon",
+          "dependences": [
+               19664,
+               22652,
+               25547,
+               26543,
+               27098,
+               27646,
+               28197,
+               28738,
+               32999,
+               33581,
+               36180,
+               36757,
+               39321,
+               39888,
+               42451,
+               43023,
+               45568,
+               46144,
+               48732,
+               49322,
+               69995,
+               73392,
+               76982
+          ]
+     },
+     "hp-award-list__category": {
+          "value": "hp-award-list__category",
+          "dependences": [
+               19808,
+               22796,
+               25691
+          ]
+     },
+     "js-hp-award-list__category": {
+          "value": "js-hp-award-list__category",
+          "dependences": [
+               19832,
+               22820,
+               25715
+          ]
+     },
+     "p": {
+          "value": "p",
+          "dependences": [
+               19859,
+               22847,
+               25742,
+               71017,
+               74347,
+               77926,
+               81245,
+               81577
+          ]
+     },
+     "p--14": {
+          "value": "p--14",
+          "dependences": [
+               19861,
+               22849,
+               25744
+          ]
+     },
+     "ct--hp-award-counters": {
+          "value": "ct--hp-award-counters",
+          "dependences": [
+               25974
+          ]
+     },
+     "hp-award-counters": {
+          "value": "hp-award-counters",
+          "dependences": [
+               25996
+          ]
+     },
+     "hp-award-counters__line": {
+          "value": "hp-award-counters__line",
+          "dependences": [
+               26169,
+               29258
+          ]
+     },
+     "hp-award-list__line--top": {
+          "value": "hp-award-list__line--top",
+          "dependences": [
+               26193
+          ]
+     },
+     "hp-award-counters__list": {
+          "value": "hp-award-counters__list",
+          "dependences": [
+               26362
+          ]
+     },
+     "hp-award-counters__el": {
+          "value": "hp-award-counters__el",
+          "dependences": [
+               26423,
+               26978,
+               27526,
+               28077,
+               28618
+          ]
+     },
+     "js-el": {
+          "value": "js-el",
+          "dependences": [
+               26445,
+               27000,
+               27548,
+               28099,
+               28640
+          ]
+     },
+     "hp-award-counters__icon": {
+          "value": "hp-award-counters__icon",
+          "dependences": [
+               26519,
+               27074,
+               27622,
+               28173,
+               28714
+          ]
+     },
+     "logo-strategies": {
+          "value": "logo-strategies",
+          "dependences": [
+               26551
+          ]
+     },
+     "hp-award-counters__counter": {
+          "value": "hp-award-counters__counter",
+          "dependences": [
+               26808,
+               27355,
+               27907,
+               28448,
+               29019
+          ]
+     },
+     "js-counter": {
+          "value": "js-counter",
+          "dependences": [
+               26835,
+               27382,
+               27934,
+               28475,
+               29046
+          ]
+     },
+     "logo-topcom": {
+          "value": "logo-topcom",
+          "dependences": [
+               27106
+          ]
+     },
+     "logo-awwwards": {
+          "value": "logo-awwwards",
+          "dependences": [
+               27654
+          ]
+     },
+     "logo-fwa": {
+          "value": "logo-fwa",
+          "dependences": [
+               28205
+          ]
+     },
+     "logo-css-design-awards": {
+          "value": "logo-css-design-awards",
+          "dependences": [
+               28746
+          ]
+     },
+     "hp-award-list__line--bottom": {
+          "value": "hp-award-list__line--bottom",
+          "dependences": [
+               29282
+          ]
+     },
+     "ct--hp-selected-work": {
+          "value": "ct--hp-selected-work",
+          "dependences": [
+               30378
+          ]
+     },
+     "hp-selected-work": {
+          "value": "hp-selected-work",
+          "dependences": [
+               30399
+          ]
+     },
+     "hp-selected-work__title": {
+          "value": "hp-selected-work__title",
+          "dependences": [
+               30583
+          ]
+     },
+     "hp-selected-work__wrapper": {
+          "value": "hp-selected-work__wrapper",
+          "dependences": [
+               30689
+          ]
+     },
+     "hp-selected-work__list": {
+          "value": "hp-selected-work__list",
+          "dependences": [
+               31107
+          ]
+     },
+     "js-list": {
+          "value": "js-list",
+          "dependences": [
+               31130
+          ]
+     },
+     "ct--hp-selected-work-card": {
+          "value": "ct--hp-selected-work-card",
+          "dependences": [
+               31197,
+               34379,
+               37517,
+               40651,
+               43784,
+               46914
+          ]
+     },
+     "js-hp-selected-work-card": {
+          "value": "js-hp-selected-work-card",
+          "dependences": [
+               31223,
+               34405,
+               37543,
+               40677,
+               43810,
+               46940
+          ]
+     },
+     "hp-selected-work-card": {
+          "value": "hp-selected-work-card",
+          "dependences": [
+               31248,
+               34430,
+               37568,
+               40702,
+               43835,
+               46965
+          ]
+     },
+     "is-active": {
+          "value": "is-active",
+          "dependences": [
+               31270
+          ]
+     },
+     "hp-selected-work-card__overlay": {
+          "value": "hp-selected-work-card__overlay",
+          "dependences": [
+               31479,
+               34651,
+               37789,
+               40923,
+               44056,
+               47186
+          ]
+     },
+     "image-cursor__video": {
+          "value": "image-cursor__video",
+          "dependences": [
+               31943,
+               35115,
+               38253,
+               41388,
+               44513,
+               47659
+          ]
+     },
+     "js-video": {
+          "value": "js-video",
+          "dependences": [
+               31963,
+               35135,
+               38273,
+               41408,
+               44533,
+               47679
+          ]
+     },
+     "image-cursor__poster": {
+          "value": "image-cursor__poster",
+          "dependences": [
+               32329,
+               35510,
+               38651,
+               41780,
+               44905,
+               48053
+          ]
+     },
+     "js-poster": {
+          "value": "js-poster",
+          "dependences": [
+               32350,
+               35531,
+               38672,
+               41801,
+               44926,
+               48074
+          ]
+     },
+     "hp-selected-work-card__divnk": {
+          "value": "hp-selected-work-card__divnk",
+          "dependences": [
+               33101,
+               36282,
+               39423,
+               42553,
+               45670,
+               48834
+          ]
+     },
+     "hp-selected-work-card__container": {
+          "value": "hp-selected-work-card__container",
+          "dependences": [
+               33372,
+               36548,
+               39679,
+               42814,
+               45935,
+               49113
+          ]
+     },
+     "hp-selected-work-card__head": {
+          "value": "hp-selected-work-card__head",
+          "dependences": [
+               33445,
+               36621,
+               39752,
+               42887,
+               46008,
+               49186
+          ]
+     },
+     "hp-selected-work-card__icon": {
+          "value": "hp-selected-work-card__icon",
+          "dependences": [
+               33553,
+               36729,
+               39860,
+               42995,
+               46116,
+               49294
+          ]
+     },
+     "hp-selected-work-card__info": {
+          "value": "hp-selected-work-card__info",
+          "dependences": [
+               33826,
+               36982,
+               40126,
+               43258,
+               46378,
+               49557
+          ]
+     },
+     "js-info": {
+          "value": "js-info",
+          "dependences": [
+               33854,
+               37010,
+               40154,
+               43286,
+               46406,
+               49585
+          ]
+     },
+     "hp-selected-work-card__type": {
+          "value": "hp-selected-work-card__type",
+          "dependences": [
+               33905,
+               37061,
+               40205,
+               43337,
+               46457,
+               49636
+          ]
+     },
+     "js-type": {
+          "value": "js-type",
+          "dependences": [
+               33933,
+               37089,
+               40233,
+               43365,
+               46485,
+               49664
+          ]
+     },
+     "hp-selected-work-card__copy": {
+          "value": "hp-selected-work-card__copy",
+          "dependences": [
+               34105,
+               37248,
+               40394,
+               43519,
+               46646,
+               49913
+          ]
+     },
+     "js-copy": {
+          "value": "js-copy",
+          "dependences": [
+               34133,
+               37276,
+               40422,
+               43547,
+               46674,
+               49941
+          ]
+     },
+     "ct--hp-clients": {
+          "value": "ct--hp-clients",
+          "dependences": [
+               50268
+          ]
+     },
+     "hp-clients": {
+          "value": "hp-clients",
+          "dependences": [
+               50283
+          ]
+     },
+     "hp-clients__wrapper": {
+          "value": "hp-clients__wrapper",
+          "dependences": [
+               50384
+          ]
+     },
+     "hp-clients__container": {
+          "value": "hp-clients__container",
+          "dependences": [
+               50476
+          ]
+     },
+     "ct--all-customers": {
+          "value": "ct--all-customers",
+          "dependences": [
+               50929
+          ]
+     },
+     "ct--all-customers__head": {
+          "value": "ct--all-customers__head",
+          "dependences": [
+               51057
+          ]
+     },
+     "ct--all-customers__head__title": {
+          "value": "ct--all-customers__head__title",
+          "dependences": [
+               51119
+          ]
+     },
+     "col": {
+          "value": "col",
+          "dependences": [
+               51150,
+               85402,
+               86153
+          ]
+     },
+     "title-giga": {
+          "value": "title-giga",
+          "dependences": [
+               51193
+          ]
+     },
+     "ct--all-customers__all-customers": {
+          "value": "ct--all-customers__all-customers",
+          "dependences": [
+               51579
+          ]
+     },
+     "ct--all-customers__all-customers__logo": {
+          "value": "ct--all-customers__all-customers__logo",
+          "dependences": [
+               51708,
+               52169,
+               52637,
+               53091,
+               53550,
+               54002,
+               54491,
+               54956,
+               55412,
+               55875,
+               56334,
+               56792,
+               57262,
+               57727,
+               58196,
+               58666,
+               59139,
+               59603,
+               60058,
+               60517,
+               60998,
+               61461,
+               61933,
+               62386,
+               62838,
+               63303,
+               63766,
+               64230,
+               64684,
+               65136
+          ]
+     },
+     "js-logo": {
+          "value": "js-logo",
+          "dependences": [
+               51747,
+               52208,
+               52676,
+               53130,
+               53589,
+               54041,
+               54530,
+               54995,
+               55451,
+               55914,
+               56373,
+               56831,
+               57301,
+               57766,
+               58235,
+               58705,
+               59178,
+               59642,
+               60097,
+               60556,
+               61037,
+               61500,
+               61972,
+               62425,
+               62877,
+               63342,
+               63805,
+               64269,
+               64723,
+               65175
+          ]
+     },
+     "hp-clients__line": {
+          "value": "hp-clients__line",
+          "dependences": [
+               65687
+          ]
+     },
+     "hp-clients__cta": {
+          "value": "hp-clients__cta",
+          "dependences": [
+               65843
+          ]
+     },
+     "ct--hp-news": {
+          "value": "ct--hp-news",
+          "dependences": [
+               66793
+          ]
+     },
+     "hp-news": {
+          "value": "hp-news",
+          "dependences": [
+               66805
+          ]
+     },
+     "hp-news__wrapper": {
+          "value": "hp-news__wrapper",
+          "dependences": [
+               66873
+          ]
+     },
+     "hp-news__container": {
+          "value": "hp-news__container",
+          "dependences": [
+               67264
+          ]
+     },
+     "hp-news__title-container": {
+          "value": "hp-news__title-container",
+          "dependences": [
+               67317
+          ]
+     },
+     "hp-news__title": {
+          "value": "hp-news__title",
+          "dependences": [
+               67377
+          ]
+     },
+     "js-hp-news__title": {
+          "value": "js-hp-news__title",
+          "dependences": [
+               67392
+          ]
+     },
+     "hp-news__cards": {
+          "value": "hp-news__cards",
+          "dependences": [
+               67786
+          ]
+     },
+     "js-hp-news__cards": {
+          "value": "js-hp-news__cards",
+          "dependences": [
+               67801
+          ]
+     },
+     "ct--news-card": {
+          "value": "ct--news-card",
+          "dependences": [
+               67882,
+               71312,
+               74898
+          ]
+     },
+     "js-ct--news-card": {
+          "value": "js-ct--news-card",
+          "dependences": [
+               67896,
+               71326,
+               74912
+          ]
+     },
+     "js--news-item": {
+          "value": "js--news-item",
+          "dependences": [
+               67913,
+               71343,
+               74929
+          ]
+     },
+     "not-animate": {
+          "value": "not-animate",
+          "dependences": [
+               67927,
+               71357,
+               74943
+          ]
+     },
+     "ct--news-card__line": {
+          "value": "ct--news-card__line",
+          "dependences": [
+               68043,
+               71473,
+               75059
+          ]
+     },
+     "ct--news-card__heading": {
+          "value": "ct--news-card__heading",
+          "dependences": [
+               68214,
+               71644,
+               75230
+          ]
+     },
+     "ct--news-card__heading__category": {
+          "value": "ct--news-card__heading__category",
+          "dependences": [
+               68290,
+               71720,
+               75306
+          ]
+     },
+     "ct--news-card__heading__date": {
+          "value": "ct--news-card__heading__date",
+          "dependences": [
+               68438,
+               71861,
+               75448
+          ]
+     },
+     "ct--news-card__illu": {
+          "value": "ct--news-card__illu",
+          "dependences": [
+               68615,
+               72035,
+               75622
+          ]
+     },
+     "duration": {
+          "value": "duration",
+          "dependences": [
+               70143,
+               73540,
+               77130
+          ]
+     },
+     "little-text--caps-bold": {
+          "value": "little-text--caps-bold",
+          "dependences": [
+               70164,
+               73561,
+               77151,
+               82206,
+               82674
+          ]
+     },
+     "ct--news-card__title": {
+          "value": "ct--news-card__title",
+          "dependences": [
+               70362,
+               73759,
+               77350
+          ]
+     },
+     "ct--news-card__p": {
+          "value": "ct--news-card__p",
+          "dependences": [
+               71000,
+               74330,
+               77909
+          ]
+     },
+     "p--normal": {
+          "value": "p--normal",
+          "dependences": [
+               71019,
+               74349,
+               77928,
+               81247,
+               81579
+          ]
+     },
+     "hp-news__line": {
+          "value": "hp-news__line",
+          "dependences": [
+               78402
+          ]
+     },
+     "hp-news__cta": {
+          "value": "hp-news__cta",
+          "dependences": [
+               78555
+          ]
+     },
+     "ct--footer": {
+          "value": "ct--footer",
+          "dependences": [
+               79713
+          ]
+     },
+     "c-full--top": {
+          "value": "c-full--top",
+          "dependences": [
+               79755
+          ]
+     },
+     "line--about": {
+          "value": "line--about",
+          "dependences": [
+               79836
+          ]
+     },
+     "line--about__col": {
+          "value": "line--about__col",
+          "dependences": [
+               79878,
+               80841
+          ]
+     },
+     "c-4": {
+          "value": "c-4",
+          "dependences": [
+               79895,
+               81984
+          ]
+     },
+     "m-1": {
+          "value": "m-1",
+          "dependences": [
+               79899,
+               80862,
+               81881,
+               81988,
+               85453,
+               86197
+          ]
+     },
+     "line--about__col__title": {
+          "value": "line--about__col__title",
+          "dependences": [
+               79934,
+               80917
+          ]
+     },
+     "title-mega": {
+          "value": "title-mega",
+          "dependences": [
+               79958,
+               80941
+          ]
+     },
+     "c-5": {
+          "value": "c-5",
+          "dependences": [
+               80858
+          ]
+     },
+     "js-dont-be-boring": {
+          "value": "js-dont-be-boring",
+          "dependences": [
+               80952
+          ]
+     },
+     "adress": {
+          "value": "adress",
+          "dependences": [
+               81086
+          ]
+     },
+     "adress__box": {
+          "value": "adress__box",
+          "dependences": [
+               81127,
+               81453
+          ]
+     },
+     "adress__box--title": {
+          "value": "adress__box--title",
+          "dependences": [
+               81178,
+               81504
+          ]
+     },
+     "line--separator": {
+          "value": "line--separator",
+          "dependences": [
+               81865
+          ]
+     },
+     "c-10": {
+          "value": "c-10",
+          "dependences": [
+               81885
+          ]
+     },
+     "line--nav": {
+          "value": "line--nav",
+          "dependences": [
+               81929
+          ]
+     },
+     "line--nav__col": {
+          "value": "line--nav__col",
+          "dependences": [
+               81969,
+               83014
+          ]
+     },
+     "js-ajax-link-footer": {
+          "value": "js-ajax-link-footer",
+          "dependences": [
+               82229,
+               82697
+          ]
+     },
+     "m-4": {
+          "value": "m-4",
+          "dependences": [
+               83037
+          ]
+     },
+     "c-2": {
+          "value": "c-2",
+          "dependences": [
+               83041
+          ]
+     },
+     "socials-list": {
+          "value": "socials-list",
+          "dependences": [
+               83076
+          ]
+     },
+     "svg-social-network-facebook": {
+          "value": "svg-social-network-facebook",
+          "dependences": [
+               83931
+          ]
+     },
+     "c-full--bottom": {
+          "value": "c-full--bottom",
+          "dependences": [
+               85307
+          ]
+     },
+     "little-text--caps": {
+          "value": "little-text--caps",
+          "dependences": [
+               85418,
+               86175
+          ]
+     },
+     "col--menu-bottom": {
+          "value": "col--menu-bottom",
+          "dependences": [
+               85436
+          ]
+     },
+     "c-8": {
+          "value": "c-8",
+          "dependences": [
+               85457
+          ]
+     },
+     "langs": {
+          "value": "langs",
+          "dependences": [
+               86157
+          ]
+     },
+     "c-1": {
+          "value": "c-1",
+          "dependences": [
+               86193
+          ]
+     },
+     "langs-footer": {
+          "value": "langs-footer",
+          "dependences": [
+               86230
+          ]
+     },
+     "lang": {
+          "value": "lang",
+          "dependences": [
+               86306,
+               86474
+          ]
+     },
+     "active": {
+          "value": "active",
+          "dependences": [
+               86311
+          ]
+     },
+     "js-ajax-lang": {
+          "value": "js-ajax-lang",
+          "dependences": [
+               86479
+          ]
+     },
+     "no-ajax": {
+          "value": "no-ajax",
+          "dependences": [
+               86492
+          ]
+     },
+     "gl-video": {
+          "value": "gl-video",
+          "dependences": [
+               86927
+          ]
+     },
+     "rotate-device": {
+          "value": "rotate-device",
+          "dependences": [
+               89624
+          ]
+     },
+     "show": {
+          "value": "show",
+          "dependences": [
+               89638
+          ]
+     },
+     "js-rotate-container": {
+          "value": "js-rotate-container",
+          "dependences": [
+               89643
+          ]
+     },
+     "content": {
+          "value": "content",
+          "dependences": [
+               89683
+          ]
+     },
+     "title-kilo": {
+          "value": "title-kilo",
+          "dependences": [
+               89714
+          ]
+     },
+     "svg-rotate-desktop": {
+          "value": "svg-rotate-desktop",
+          "dependences": [
+               89782
+          ]
+     }
+}

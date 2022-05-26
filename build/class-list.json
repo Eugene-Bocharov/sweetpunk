@@ -1,0 +1,3347 @@
+{
+     "chrome": {
+          "htmlDependences": [
+               1096
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "desktop": {
+          "htmlDependences": [
+               1103
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "pre_loader": {
+          "htmlDependences": [
+               1129
+          ],
+          "cssDependences": [
+               51395,
+               51661,
+               51796,
+               52015
+          ],
+          "transformTo": "none"
+     },
+     "js-counting": {
+          "htmlDependences": [
+               1161
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "screen-transformation": {
+          "htmlDependences": [
+               1210
+          ],
+          "cssDependences": [
+               51100,
+               51425,
+               51703,
+               51842,
+               52066
+          ],
+          "transformTo": "none"
+     },
+     "logick-sceen-transformation-text": {
+          "htmlDependences": [
+               1253
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "txt-screen": {
+          "htmlDependences": [
+               1286
+          ],
+          "cssDependences": [
+               51448,
+               51673,
+               51726
+          ],
+          "transformTo": "none"
+     },
+     "title-hecto": {
+          "htmlDependences": [
+               1297,
+               70383,
+               73780,
+               77371
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "logick-sceen-transformation-bar": {
+          "htmlDependences": [
+               1341
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "screen-transformation__bar": {
+          "htmlDependences": [
+               1373
+          ],
+          "cssDependences": [
+               51865
+          ],
+          "transformTo": "none"
+     },
+     "logick-sceen-transformation-progress": {
+          "htmlDependences": [
+               1432
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "screen-transformation__progress": {
+          "htmlDependences": [
+               1469
+          ],
+          "cssDependences": [
+               52089
+          ],
+          "transformTo": "none"
+     },
+     "ct": {
+          "htmlDependences": [
+               1562,
+               8301,
+               10947,
+               13341,
+               13483,
+               14471,
+               14652,
+               16613,
+               16949,
+               17406,
+               18761,
+               20402,
+               21746,
+               23359,
+               24642,
+               25971,
+               26152,
+               29241,
+               29500,
+               30375,
+               30767,
+               31194,
+               31645,
+               34376,
+               34817,
+               37514,
+               37955,
+               40648,
+               41089,
+               43781,
+               44222,
+               46911,
+               47352,
+               50265,
+               50554,
+               50926,
+               51291,
+               65670,
+               65917,
+               66790,
+               66982,
+               67548,
+               67879,
+               68026,
+               69031,
+               71309,
+               71456,
+               72429,
+               74895,
+               75042,
+               76014,
+               78385,
+               78626,
+               79710,
+               80093
+          ],
+          "cssDependences": [
+               59830,
+               60093,
+               60384,
+               60540,
+               60610,
+               60780,
+               60833,
+               60951,
+               61041,
+               61100,
+               61153,
+               61295,
+               61389,
+               61547,
+               61635,
+               61840,
+               61895,
+               62037,
+               62198,
+               62319,
+               62430,
+               62499,
+               62581,
+               62670,
+               62785,
+               62906,
+               63027,
+               63080,
+               63219,
+               63272,
+               63408,
+               63545,
+               63640,
+               63731,
+               63807,
+               63898,
+               64030,
+               64104,
+               64172,
+               64208,
+               64244,
+               64302,
+               64387,
+               64518,
+               64619,
+               64720,
+               64837,
+               64932,
+               65001,
+               65073,
+               65154,
+               65246,
+               65307,
+               65451,
+               65591,
+               65672,
+               65776,
+               66133,
+               66229,
+               66327,
+               66534,
+               66651,
+               66746,
+               66834,
+               66924,
+               67010,
+               67111,
+               67163,
+               67214,
+               67316,
+               67405,
+               67503,
+               67593,
+               67672,
+               67842,
+               68090,
+               68382,
+               68739,
+               68861,
+               69014,
+               69355,
+               69542,
+               69621,
+               69701,
+               69938,
+               70162,
+               100022
+          ],
+          "transformTo": "none"
+     },
+     "ct--menu": {
+          "htmlDependences": [
+               1565
+          ],
+          "cssDependences": [
+               60002,
+               60407,
+               60485,
+               60903,
+               60983,
+               61329
+          ],
+          "transformTo": "none"
+     },
+     "background": {
+          "htmlDependences": [
+               1616
+          ],
+          "cssDependences": [
+               60106,
+               61413,
+               61658
+          ],
+          "transformTo": "none"
+     },
+     "c-full": {
+          "htmlDependences": [
+               1653,
+               12535,
+               13624,
+               14553,
+               30505,
+               50377,
+               66866,
+               79748,
+               85300
+          ],
+          "cssDependences": [
+               6497,
+               6524,
+               61177,
+               61908,
+               62050,
+               62211,
+               62332,
+               62443,
+               62512,
+               62594,
+               62683,
+               62798,
+               62919,
+               63040,
+               63093,
+               63232,
+               63285,
+               63421,
+               63558,
+               63653,
+               63744,
+               63820,
+               63911,
+               64043,
+               64317,
+               64402,
+               64533,
+               64634,
+               64735,
+               64852,
+               64947,
+               65016,
+               65088,
+               65169,
+               65261,
+               65322,
+               65382,
+               65466,
+               65527,
+               65606,
+               65687,
+               65791,
+               65864,
+               66050,
+               66148,
+               66244,
+               66342,
+               66549,
+               66666,
+               66761,
+               66849,
+               66939,
+               67025,
+               88483,
+               111705
+          ],
+          "transformTo": "none"
+     },
+     "js-wrapper": {
+          "htmlDependences": [
+               1660
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "c-wrapper": {
+          "htmlDependences": [
+               1693,
+               12572,
+               13663,
+               14590,
+               30542,
+               30679,
+               50434,
+               66920,
+               79793,
+               85348
+          ],
+          "cssDependences": [
+               6532,
+               60012,
+               61570,
+               62058,
+               62219,
+               62340,
+               62451,
+               62520,
+               62602,
+               62691,
+               62806,
+               62927,
+               63048,
+               63101,
+               63240,
+               63293,
+               63429,
+               63566,
+               63661,
+               63752,
+               63828,
+               63919,
+               64051,
+               64325,
+               64410,
+               64541,
+               64642,
+               64743,
+               64860,
+               64955,
+               65024,
+               65096,
+               65177,
+               65269,
+               65330,
+               65390,
+               65474,
+               65535,
+               65614,
+               65695,
+               65799,
+               65872,
+               66058,
+               66156,
+               66252,
+               66350,
+               66557,
+               66674,
+               66769,
+               66857,
+               66947,
+               67033,
+               67245,
+               67347,
+               67436,
+               67534,
+               67624,
+               81151,
+               82973,
+               83883,
+               86659,
+               93015,
+               100408,
+               104593,
+               118818,
+               120055,
+               121385,
+               127224,
+               127410
+          ],
+          "transformTo": "none"
+     },
+     "logo": {
+          "htmlDependences": [
+               1727
+          ],
+          "cssDependences": [
+               60846,
+               60922,
+               61124,
+               62230,
+               62351,
+               62462
+          ],
+          "transformTo": "none"
+     },
+     "navs": {
+          "htmlDependences": [
+               6104
+          ],
+          "cssDependences": [
+               62531,
+               62613,
+               62702,
+               62817,
+               62938,
+               63059,
+               63112,
+               63251,
+               63304,
+               63440,
+               63577,
+               63672,
+               63763,
+               63839,
+               63930,
+               64062
+          ],
+          "transformTo": "none"
+     },
+     "item": {
+          "htmlDependences": [
+               6175,
+               6586,
+               7001,
+               7424,
+               7835,
+               8246
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "link": {
+          "htmlDependences": [
+               6318,
+               6729,
+               7144,
+               7567,
+               7978,
+               9075,
+               9579,
+               10098
+          ],
+          "cssDependences": [
+               60495,
+               60553,
+               60623,
+               60793,
+               61063
+          ],
+          "transformTo": "none"
+     },
+     "little-text": {
+          "htmlDependences": [
+               6323,
+               6734,
+               7149,
+               7572,
+               7983,
+               68237,
+               70152,
+               71667,
+               73549,
+               75253,
+               77139,
+               82194,
+               82662,
+               85406,
+               86163
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "little-text--14": {
+          "htmlDependences": [
+               6335,
+               6746,
+               7161,
+               7584,
+               7995
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-ajax-link-menu": {
+          "htmlDependences": [
+               6351,
+               6762,
+               7177,
+               7600,
+               8011
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--rounded-btn": {
+          "htmlDependences": [
+               8304,
+               29503,
+               65920,
+               78629,
+               80096
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "rounded-btn": {
+          "htmlDependences": [
+               8320,
+               29519,
+               65936,
+               78645,
+               80112
+          ],
+          "cssDependences": [
+               72846,
+               107750,
+               107943,
+               108002,
+               108046,
+               108147,
+               108208,
+               120214
+          ],
+          "transformTo": "none"
+     },
+     "rounded-btn__hit": {
+          "htmlDependences": [
+               8573,
+               29825,
+               66222,
+               78825,
+               80387
+          ],
+          "cssDependences": [
+               110932
+          ],
+          "transformTo": "none"
+     },
+     "js-hit": {
+          "htmlDependences": [
+               8590,
+               29842,
+               66239,
+               78842,
+               80404
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "rounded-btn__border": {
+          "htmlDependences": [
+               8637,
+               29891,
+               66290,
+               78893,
+               80451
+          ],
+          "cssDependences": [
+               107962,
+               108368,
+               111390
+          ],
+          "transformTo": "none"
+     },
+     "js-btn-border": {
+          "htmlDependences": [
+               8657,
+               29911,
+               66310,
+               78913,
+               80471
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "rounded-btn__text": {
+          "htmlDependences": [
+               8711,
+               29967,
+               66368,
+               78971,
+               80525
+          ],
+          "cssDependences": [
+               60417,
+               61002,
+               61350,
+               63128,
+               63320,
+               63456,
+               64349,
+               83784,
+               108110,
+               110759
+          ],
+          "transformTo": "none"
+     },
+     "js-text": {
+          "htmlDependences": [
+               8729,
+               14857,
+               29985,
+               30972,
+               50767,
+               66386,
+               67187,
+               78989,
+               80543
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "rounded-btn__bar": {
+          "htmlDependences": [
+               8785,
+               30110,
+               66505,
+               79110,
+               80657
+          ],
+          "cssDependences": [
+               108168,
+               111048
+          ],
+          "transformTo": "none"
+     },
+     "rounded-btn__progress": {
+          "htmlDependences": [
+               8838,
+               30165,
+               66562,
+               79167,
+               80710
+          ],
+          "cssDependences": [
+               108229,
+               111209
+          ],
+          "transformTo": "none"
+     },
+     "socials": {
+          "htmlDependences": [
+               9002,
+               83029
+          ],
+          "cssDependences": [
+               63678,
+               63769,
+               63845,
+               63936,
+               64068,
+               64563,
+               64664,
+               64765,
+               64882,
+               66879,
+               66969,
+               67055
+          ],
+          "transformTo": "none"
+     },
+     "icon": {
+          "htmlDependences": [
+               9343,
+               9858,
+               10375,
+               83407,
+               83926,
+               84450,
+               84975,
+               89777
+          ],
+          "cssDependences": [
+               10144,
+               10251,
+               52384,
+               52441,
+               52498,
+               52555,
+               52612,
+               52669,
+               56360,
+               59123,
+               59758,
+               63857,
+               64679,
+               64782,
+               64905,
+               68417,
+               68950,
+               86182,
+               86539,
+               97980,
+               98061,
+               133777,
+               135181,
+               149350,
+               170745,
+               170801
+          ],
+          "transformTo": "none"
+     },
+     "svg-social-network-twitter": {
+          "htmlDependences": [
+               9348,
+               83412
+          ],
+          "cssDependences": [
+               10310
+          ],
+          "transformTo": "none"
+     },
+     "svg-social-network-instagram": {
+          "htmlDependences": [
+               9863,
+               84455
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "svg-social-network-linkedin": {
+          "htmlDependences": [
+               10380,
+               84980
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "webgl": {
+          "htmlDependences": [
+               10644
+          ],
+          "cssDependences": [
+               131301,
+               131443
+          ],
+          "transformTo": "none"
+     },
+     "app-wrapper": {
+          "htmlDependences": [
+               10698
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "scroll-wrapper": {
+          "htmlDependences": [
+               10730
+          ],
+          "cssDependences": [
+               52294,
+               59259
+          ],
+          "transformTo": "none"
+     },
+     "page": {
+          "htmlDependences": [
+               10871
+          ],
+          "cssDependences": [
+               52796,
+               52910,
+               53033,
+               53061,
+               53149,
+               53190
+          ],
+          "transformTo": "none"
+     },
+     "homepage-index": {
+          "htmlDependences": [
+               10876
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "home": {
+          "htmlDependences": [
+               10891
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--hp-header": {
+          "htmlDependences": [
+               10950
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header": {
+          "htmlDependences": [
+               10964
+          ],
+          "cssDependences": [
+               126919,
+               127213,
+               127298,
+               127346,
+               127388
+          ],
+          "transformTo": "none"
+     },
+     "hp-header__cover": {
+          "htmlDependences": [
+               11862
+          ],
+          "cssDependences": [
+               127439
+          ],
+          "transformTo": "none"
+     },
+     "js-cover": {
+          "htmlDependences": [
+               11879
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__cursor": {
+          "htmlDependences": [
+               12184
+          ],
+          "cssDependences": [
+               128680
+          ],
+          "transformTo": "none"
+     },
+     "js-cursor": {
+          "htmlDependences": [
+               12202
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__cursor-circle": {
+          "htmlDependences": [
+               12242
+          ],
+          "cssDependences": [
+               128985
+          ],
+          "transformTo": "none"
+     },
+     "js-cursorCircle": {
+          "htmlDependences": [
+               12267
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__cursor-play": {
+          "htmlDependences": [
+               12368
+          ],
+          "cssDependences": [
+               129485
+          ],
+          "transformTo": "none"
+     },
+     "js-cursorPlay": {
+          "htmlDependences": [
+               12391
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__cursor-pause": {
+          "htmlDependences": [
+               12441
+          ],
+          "cssDependences": [
+               128909,
+               129747
+          ],
+          "transformTo": "none"
+     },
+     "js-cursorPause": {
+          "htmlDependences": [
+               12465
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__text-wrapper": {
+          "htmlDependences": [
+               12614
+          ],
+          "cssDependences": [
+               127794
+          ],
+          "transformTo": "none"
+     },
+     "js-textWrapper": {
+          "htmlDependences": [
+               12638
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__title": {
+          "htmlDependences": [
+               12686
+          ],
+          "cssDependences": [
+               44639,
+               127843,
+               128133,
+               128201,
+               128278
+          ],
+          "transformTo": "none"
+     },
+     "js-title": {
+          "htmlDependences": [
+               12703
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__subtitle": {
+          "htmlDependences": [
+               12815
+          ],
+          "cssDependences": [
+               127880,
+               128356,
+               128435
+          ],
+          "transformTo": "none"
+     },
+     "js-subtitle": {
+          "htmlDependences": [
+               12835
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__scroll": {
+          "htmlDependences": [
+               13016
+          ],
+          "cssDependences": [
+               130010,
+               130187
+          ],
+          "transformTo": "none"
+     },
+     "js-scroll": {
+          "htmlDependences": [
+               13034
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-header__scroll-icon": {
+          "htmlDependences": [
+               13074,
+               13146,
+               13218
+          ],
+          "cssDependences": [
+               130212,
+               130258,
+               130437
+          ],
+          "transformTo": "none"
+     },
+     "js-scroll-el": {
+          "htmlDependences": [
+               13097,
+               13169,
+               13241
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--agency-insight": {
+          "htmlDependences": [
+               13344
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "agency-insight_1": {
+          "htmlDependences": [
+               13363
+          ],
+          "cssDependences": [
+               82852
+          ],
+          "transformTo": "none"
+     },
+     "ct--hp-insight": {
+          "htmlDependences": [
+               13486
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-insight": {
+          "htmlDependences": [
+               13501
+          ],
+          "cssDependences": [
+               121303,
+               121352
+          ],
+          "transformTo": "none"
+     },
+     "big": {
+          "htmlDependences": [
+               13512
+          ],
+          "cssDependences": [
+               122008,
+               122109
+          ],
+          "transformTo": "none"
+     },
+     "gl-heat-background": {
+          "htmlDependences": [
+               13516
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-insight__copy-container": {
+          "htmlDependences": [
+               13707
+          ],
+          "cssDependences": [
+               121416
+          ],
+          "transformTo": "none"
+     },
+     "hp-insight__copy-content": {
+          "htmlDependences": [
+               13770
+          ],
+          "cssDependences": [
+               121637
+          ],
+          "transformTo": "none"
+     },
+     "hp-insight__copy-heading": {
+          "htmlDependences": [
+               13858
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-hp-insight__copy-heading": {
+          "htmlDependences": [
+               13883
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-insight__copy-text": {
+          "htmlDependences": [
+               14069
+          ],
+          "cssDependences": [
+               121809,
+               121873,
+               121957,
+               122013,
+               122114
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-insight__copy-text": {
+          "htmlDependences": [
+               14091
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--hp-awards": {
+          "htmlDependences": [
+               14474
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-awards": {
+          "htmlDependences": [
+               14488
+          ],
+          "cssDependences": [
+               118807,
+               120044,
+               120203
+          ],
+          "transformTo": "none"
+     },
+     "ct--section-info": {
+          "htmlDependences": [
+               14655,
+               30770,
+               50557,
+               66985
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "section-info": {
+          "htmlDependences": [
+               14672,
+               30787,
+               50574,
+               67002
+          ],
+          "cssDependences": [
+               84177,
+               97695,
+               97754,
+               97818,
+               97888,
+               97945,
+               98008,
+               98047
+          ],
+          "transformTo": "none"
+     },
+     "is-sticky": {
+          "htmlDependences": [
+               14685,
+               30800,
+               50587,
+               67015
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "section-info__text": {
+          "htmlDependences": [
+               14838,
+               30953,
+               50748,
+               67168
+          ],
+          "cssDependences": [
+               98202
+          ],
+          "transformTo": "none"
+     },
+     "hp-awards__container": {
+          "htmlDependences": [
+               14936
+          ],
+          "cssDependences": [
+               118855
+          ],
+          "transformTo": "none"
+     },
+     "hp-awards__head": {
+          "htmlDependences": [
+               14991
+          ],
+          "cssDependences": [
+               118939
+          ],
+          "transformTo": "none"
+     },
+     "hp-awards__title": {
+          "htmlDependences": [
+               15042
+          ],
+          "cssDependences": [
+               45224,
+               105209,
+               105591,
+               106059,
+               118982,
+               120090,
+               120156
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-awards__title": {
+          "htmlDependences": [
+               15059
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-awards__copy": {
+          "htmlDependences": [
+               15201
+          ],
+          "cssDependences": [
+               119024,
+               120256,
+               120341
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-awards__copy": {
+          "htmlDependences": [
+               15217
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-awards__copy-frag": {
+          "htmlDependences": [
+               15272,
+               15444,
+               15618,
+               15790
+          ],
+          "cssDependences": [
+               119335
+          ],
+          "transformTo": "none"
+     },
+     "js-copy-frag": {
+          "htmlDependences": [
+               15293,
+               15465,
+               15639,
+               15811
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-awards__copy-frag-common": {
+          "htmlDependences": [
+               16029
+          ],
+          "cssDependences": [
+               119259
+          ],
+          "transformTo": "none"
+     },
+     "js-copy-common": {
+          "htmlDependences": [
+               16057
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-awards__deco": {
+          "htmlDependences": [
+               16170
+          ],
+          "cssDependences": [
+               119557,
+               120386
+          ],
+          "transformTo": "none"
+     },
+     "hp-awards__deco-letter": {
+          "htmlDependences": [
+               16225
+          ],
+          "cssDependences": [
+               119886,
+               120922,
+               121191
+          ],
+          "transformTo": "none"
+     },
+     "hp-awards__deco-circle": {
+          "htmlDependences": [
+               16320
+          ],
+          "cssDependences": [
+               119646,
+               119792,
+               120555,
+               120728,
+               120825
+          ],
+          "transformTo": "none"
+     },
+     "gl-circle": {
+          "htmlDependences": [
+               16343
+          ],
+          "cssDependences": [
+               55912
+          ],
+          "transformTo": "none"
+     },
+     "ct--section-counter": {
+          "htmlDependences": [
+               16616,
+               51294,
+               67551
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "section-counter": {
+          "htmlDependences": [
+               16636,
+               51314,
+               67571
+          ],
+          "cssDependences": [
+               83029,
+               84067,
+               86711,
+               90518,
+               92714,
+               98317,
+               100757,
+               100884,
+               104664,
+               105609,
+               106077,
+               119816,
+               120849
+          ],
+          "transformTo": "none"
+     },
+     "ct--hp-award-list": {
+          "htmlDependences": [
+               16952
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-list": {
+          "htmlDependences": [
+               16970
+          ],
+          "cssDependences": [
+               115612,
+               115770,
+               117909
+          ],
+          "transformTo": "none"
+     },
+     "hp-award-list__el": {
+          "htmlDependences": [
+               17172,
+               20153,
+               23114
+          ],
+          "cssDependences": [
+               115821,
+               115866,
+               116013,
+               116093,
+               116168,
+               116311,
+               116468,
+               118066
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-award-list__el": {
+          "htmlDependences": [
+               17190,
+               20171,
+               23132
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--line": {
+          "htmlDependences": [
+               17409,
+               20405,
+               23362,
+               26155,
+               29244,
+               65673,
+               68029,
+               71459,
+               75045,
+               78388
+          ],
+          "cssDependences": [
+               90587,
+               97178,
+               97256,
+               97306
+          ],
+          "transformTo": "none"
+     },
+     "line": {
+          "htmlDependences": [
+               17418,
+               20414,
+               23371,
+               26164,
+               29253,
+               65682,
+               68038,
+               71468,
+               75054,
+               78397,
+               79831,
+               81860,
+               81924
+          ],
+          "cssDependences": [
+               65280,
+               100052,
+               113089,
+               113289
+          ],
+          "transformTo": "none"
+     },
+     "hp-award-list__line": {
+          "htmlDependences": [
+               17423,
+               20419,
+               23376
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-hp-award-list__line": {
+          "htmlDependences": [
+               17443,
+               20439,
+               23396
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "animation-in": {
+          "htmlDependences": [
+               17466,
+               20462,
+               23419,
+               26218,
+               29310,
+               65704,
+               68063,
+               71493,
+               75079,
+               78416
+          ],
+          "cssDependences": [
+               115959
+          ],
+          "transformTo": "none"
+     },
+     "animation-in-timing": {
+          "htmlDependences": [
+               17479,
+               20475,
+               23432,
+               26231,
+               29323,
+               65717,
+               68076,
+               71506,
+               75092,
+               78429
+          ],
+          "cssDependences": [
+               116592,
+               116698,
+               142303,
+               145158,
+               145334,
+               145510,
+               145686,
+               146036,
+               146212,
+               146388,
+               146564,
+               146916,
+               147093,
+               147270,
+               147447,
+               147799,
+               147976,
+               148153,
+               148330,
+               154717,
+               154900,
+               155083,
+               155266,
+               155630,
+               155813,
+               155996,
+               156179,
+               156545,
+               156729,
+               156913,
+               157097,
+               157463,
+               157647,
+               157831,
+               158015
+          ],
+          "transformTo": "none"
+     },
+     "hp-award-list__head": {
+          "htmlDependences": [
+               17617,
+               20613,
+               23570
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-head": {
+          "htmlDependences": [
+               17637,
+               20633,
+               23590,
+               33473,
+               36649,
+               39780,
+               42915,
+               46036,
+               49214
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-list__title": {
+          "htmlDependences": [
+               17712,
+               20708,
+               23665
+          ],
+          "cssDependences": [
+               115898,
+               116207,
+               116905,
+               116987
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-award-list__title": {
+          "htmlDependences": [
+               17733,
+               20729,
+               23686
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-list__price": {
+          "htmlDependences": [
+               17933,
+               20944,
+               23896
+          ],
+          "cssDependences": [
+               115973,
+               116350,
+               117213
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-award-list__price": {
+          "htmlDependences": [
+               17954,
+               20965,
+               23917
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-list__img-container": {
+          "htmlDependences": [
+               18143,
+               21152,
+               24104
+          ],
+          "cssDependences": [
+               116045,
+               116507,
+               116613,
+               117315,
+               117601,
+               117715,
+               117841,
+               118713
+          ],
+          "transformTo": "none"
+     },
+     "js-imgContainer": {
+          "htmlDependences": [
+               18172,
+               21181,
+               24133
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-list__img-overlay": {
+          "htmlDependences": [
+               18380,
+               21389,
+               24341
+          ],
+          "cssDependences": [
+               118132
+          ],
+          "transformTo": "none"
+     },
+     "js-overlay": {
+          "htmlDependences": [
+               18407,
+               21416,
+               24368
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-list__idea": {
+          "htmlDependences": [
+               18489,
+               21498,
+               24450
+          ],
+          "cssDependences": [
+               118411,
+               118662
+          ],
+          "transformTo": "none"
+     },
+     "js-idea": {
+          "htmlDependences": [
+               18509,
+               21518,
+               24470
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--image-cursor": {
+          "htmlDependences": [
+               18764,
+               21749,
+               24645,
+               31648,
+               34820,
+               37958,
+               41092,
+               44225,
+               47355,
+               69034,
+               72432,
+               76017
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "image-cursor": {
+          "htmlDependences": [
+               18781,
+               21766,
+               24662,
+               31665,
+               34837,
+               37975,
+               41109,
+               44242,
+               47372,
+               69051,
+               72449,
+               76034
+          ],
+          "cssDependences": [
+               95332,
+               98605,
+               117745,
+               133042,
+               136596
+          ],
+          "transformTo": "none"
+     },
+     "image-cursor__background": {
+          "htmlDependences": [
+               18951,
+               21936,
+               24832,
+               69229,
+               72627,
+               76212
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-img": {
+          "htmlDependences": [
+               18976,
+               21961,
+               24857,
+               69254,
+               72652,
+               76237
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "image-cursor__circle": {
+          "htmlDependences": [
+               19226,
+               19335,
+               19503,
+               22214,
+               22323,
+               22491,
+               25109,
+               25218,
+               25386,
+               32589,
+               32690,
+               32846,
+               35770,
+               35871,
+               36027,
+               38911,
+               39012,
+               39168,
+               42041,
+               42142,
+               42298,
+               45158,
+               45259,
+               45415,
+               48322,
+               48423,
+               48579,
+               69543,
+               69656,
+               69830,
+               72940,
+               73053,
+               73227,
+               76530,
+               76643,
+               76817
+          ],
+          "cssDependences": [
+               95978,
+               96229
+          ],
+          "transformTo": "none"
+     },
+     "js-circle": {
+          "htmlDependences": [
+               19247,
+               22235,
+               25130,
+               32610,
+               35791,
+               38932,
+               42062,
+               45179,
+               48343,
+               69564,
+               72961,
+               76551
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "image-cursor__circle--top": {
+          "htmlDependences": [
+               19356,
+               22344,
+               25239,
+               32711,
+               35892,
+               39033,
+               42163,
+               45280,
+               48444,
+               69677,
+               73074,
+               76664
+          ],
+          "cssDependences": [
+               96326,
+               96516
+          ],
+          "transformTo": "none"
+     },
+     "js-circle-top": {
+          "htmlDependences": [
+               19382,
+               22370,
+               25265,
+               32737,
+               35918,
+               39059,
+               42189,
+               45306,
+               48470,
+               69703,
+               73100,
+               76690
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "image-cursor__circle--above": {
+          "htmlDependences": [
+               19524,
+               22512,
+               25407,
+               32867,
+               36048,
+               39189,
+               42319,
+               45436,
+               48600,
+               69851,
+               73248,
+               76838
+          ],
+          "cssDependences": [
+               96575,
+               96780
+          ],
+          "transformTo": "none"
+     },
+     "js-circle-above": {
+          "htmlDependences": [
+               19552,
+               22540,
+               25435,
+               32895,
+               36076,
+               39217,
+               42347,
+               45464,
+               48628,
+               69879,
+               73276,
+               76866
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "image-cursor__icon": {
+          "htmlDependences": [
+               19645,
+               22633,
+               25528,
+               32980,
+               36161,
+               39302,
+               42432,
+               45549,
+               48713,
+               69976,
+               73373,
+               76963
+          ],
+          "cssDependences": [
+               96841
+          ],
+          "transformTo": "none"
+     },
+     "js-icon": {
+          "htmlDependences": [
+               19664,
+               22652,
+               25547,
+               26543,
+               27098,
+               27646,
+               28197,
+               28738,
+               32999,
+               33581,
+               36180,
+               36757,
+               39321,
+               39888,
+               42451,
+               43023,
+               45568,
+               46144,
+               48732,
+               49322,
+               69995,
+               73392,
+               76982
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-list__category": {
+          "htmlDependences": [
+               19808,
+               22796,
+               25691
+          ],
+          "cssDependences": [
+               116125,
+               116719,
+               117518,
+               117949
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-award-list__category": {
+          "htmlDependences": [
+               19832,
+               22820,
+               25715
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "p": {
+          "htmlDependences": [
+               19859,
+               22847,
+               25742,
+               71017,
+               74347,
+               77926,
+               81245,
+               81577
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "p--14": {
+          "htmlDependences": [
+               19861,
+               22849,
+               25744
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--hp-award-counters": {
+          "htmlDependences": [
+               25974
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-counters": {
+          "htmlDependences": [
+               25996
+          ],
+          "cssDependences": [
+               114006,
+               114044,
+               114789
+          ],
+          "transformTo": "none"
+     },
+     "hp-award-counters__line": {
+          "htmlDependences": [
+               26169,
+               29258
+          ],
+          "cssDependences": [
+               114224
+          ],
+          "transformTo": "none"
+     },
+     "hp-award-list__line--top": {
+          "htmlDependences": [
+               26193
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-counters__list": {
+          "htmlDependences": [
+               26362
+          ],
+          "cssDependences": [
+               114304,
+               114833
+          ],
+          "transformTo": "none"
+     },
+     "hp-award-counters__el": {
+          "htmlDependences": [
+               26423,
+               26978,
+               27526,
+               28077,
+               28618
+          ],
+          "cssDependences": [
+               114365,
+               114494,
+               114914
+          ],
+          "transformTo": "none"
+     },
+     "js-el": {
+          "htmlDependences": [
+               26445,
+               27000,
+               27548,
+               28099,
+               28640
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-counters__icon": {
+          "htmlDependences": [
+               26519,
+               27074,
+               27622,
+               28173,
+               28714
+          ],
+          "cssDependences": [
+               115022,
+               115173,
+               115234,
+               115291,
+               115350,
+               115404
+          ],
+          "transformTo": "none"
+     },
+     "logo-strategies": {
+          "htmlDependences": [
+               26551
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-counters__counter": {
+          "htmlDependences": [
+               26808,
+               27355,
+               27907,
+               28448,
+               29019
+          ],
+          "cssDependences": [
+               114586,
+               114734,
+               115472,
+               115554
+          ],
+          "transformTo": "none"
+     },
+     "js-counter": {
+          "htmlDependences": [
+               26835,
+               27382,
+               27934,
+               28475,
+               29046
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "logo-topcom": {
+          "htmlDependences": [
+               27106
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "logo-awwwards": {
+          "htmlDependences": [
+               27654
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "logo-fwa": {
+          "htmlDependences": [
+               28205
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "logo-css-design-awards": {
+          "htmlDependences": [
+               28746
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-award-list__line--bottom": {
+          "htmlDependences": [
+               29282
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--hp-selected-work": {
+          "htmlDependences": [
+               30378
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-selected-work": {
+          "htmlDependences": [
+               30399
+          ],
+          "cssDependences": [
+               106121
+          ],
+          "transformTo": "none"
+     },
+     "hp-selected-work__title": {
+          "htmlDependences": [
+               30583
+          ],
+          "cssDependences": [
+               105536,
+               106002,
+               106224,
+               107129
+          ],
+          "transformTo": "none"
+     },
+     "hp-selected-work__wrapper": {
+          "htmlDependences": [
+               30689
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-selected-work__list": {
+          "htmlDependences": [
+               31107
+          ],
+          "cssDependences": [
+               106491
+          ],
+          "transformTo": "none"
+     },
+     "js-list": {
+          "htmlDependences": [
+               31130
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--hp-selected-work-card": {
+          "htmlDependences": [
+               31197,
+               34379,
+               37517,
+               40651,
+               43784,
+               46914
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-hp-selected-work-card": {
+          "htmlDependences": [
+               31223,
+               34405,
+               37543,
+               40677,
+               43810,
+               46940
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card": {
+          "htmlDependences": [
+               31248,
+               34430,
+               37568,
+               40702,
+               43835,
+               46965
+          ],
+          "cssDependences": [
+               98382,
+               98526,
+               98582
+          ],
+          "transformTo": "none"
+     },
+     "is-active": {
+          "htmlDependences": [
+               31270
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card__overlay": {
+          "htmlDependences": [
+               31479,
+               34651,
+               37789,
+               40923,
+               44056,
+               47186
+          ],
+          "cssDependences": [
+               106916
+          ],
+          "transformTo": "none"
+     },
+     "image-cursor__video": {
+          "htmlDependences": [
+               31943,
+               35115,
+               38253,
+               41388,
+               44513,
+               47659
+          ],
+          "cssDependences": [
+               95717,
+               95939
+          ],
+          "transformTo": "none"
+     },
+     "js-video": {
+          "htmlDependences": [
+               31963,
+               35135,
+               38273,
+               41408,
+               44533,
+               47679
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "image-cursor__poster": {
+          "htmlDependences": [
+               32329,
+               35510,
+               38651,
+               41780,
+               44905,
+               48053
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-poster": {
+          "htmlDependences": [
+               32350,
+               35531,
+               38672,
+               41801,
+               44926,
+               48074
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card__divnk": {
+          "htmlDependences": [
+               33101,
+               36282,
+               39423,
+               42553,
+               45670,
+               48834
+          ],
+          "cssDependences": [
+               99972
+          ],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card__container": {
+          "htmlDependences": [
+               33372,
+               36548,
+               39679,
+               42814,
+               45935,
+               49113
+          ],
+          "cssDependences": [
+               98891,
+               100119
+          ],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card__head": {
+          "htmlDependences": [
+               33445,
+               36621,
+               39752,
+               42887,
+               46008,
+               49186
+          ],
+          "cssDependences": [
+               99156
+          ],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card__icon": {
+          "htmlDependences": [
+               33553,
+               36729,
+               39860,
+               42995,
+               46116,
+               49294
+          ],
+          "cssDependences": [
+               99251,
+               107324,
+               107429
+          ],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card__info": {
+          "htmlDependences": [
+               33826,
+               36982,
+               40126,
+               43258,
+               46378,
+               49557
+          ],
+          "cssDependences": [
+               107376
+          ],
+          "transformTo": "none"
+     },
+     "js-info": {
+          "htmlDependences": [
+               33854,
+               37010,
+               40154,
+               43286,
+               46406,
+               49585
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card__type": {
+          "htmlDependences": [
+               33905,
+               37061,
+               40205,
+               43337,
+               46457,
+               49636
+          ],
+          "cssDependences": [
+               99534
+          ],
+          "transformTo": "none"
+     },
+     "js-type": {
+          "htmlDependences": [
+               33933,
+               37089,
+               40233,
+               43365,
+               46485,
+               49664
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-selected-work-card__copy": {
+          "htmlDependences": [
+               34105,
+               37248,
+               40394,
+               43519,
+               46646,
+               49913
+          ],
+          "cssDependences": [
+               107183,
+               107267,
+               107579,
+               107693
+          ],
+          "transformTo": "none"
+     },
+     "js-copy": {
+          "htmlDependences": [
+               34133,
+               37276,
+               40422,
+               43547,
+               46674,
+               49941
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--hp-clients": {
+          "htmlDependences": [
+               50268
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-clients": {
+          "htmlDependences": [
+               50283
+          ],
+          "cssDependences": [
+               104530,
+               104581,
+               104652,
+               104979,
+               105006,
+               105041,
+               105075,
+               105099,
+               105130,
+               105157,
+               105197,
+               105256,
+               105494,
+               105710,
+               105754,
+               105806,
+               105857,
+               105898,
+               105946,
+               105958,
+               105990,
+               106047
+          ],
+          "transformTo": "none"
+     },
+     "hp-clients__wrapper": {
+          "htmlDependences": [
+               50384
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-clients__container": {
+          "htmlDependences": [
+               50476
+          ],
+          "cssDependences": [
+               104735
+          ],
+          "transformTo": "none"
+     },
+     "ct--all-customers": {
+          "htmlDependences": [
+               50929
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--all-customers__head": {
+          "htmlDependences": [
+               51057
+          ],
+          "cssDependences": [
+               122165
+          ],
+          "transformTo": "none"
+     },
+     "ct--all-customers__head__title": {
+          "htmlDependences": [
+               51119
+          ],
+          "cssDependences": [
+               123409
+          ],
+          "transformTo": "none"
+     },
+     "col": {
+          "htmlDependences": [
+               51150,
+               85402,
+               86153
+          ],
+          "cssDependences": [
+               141894,
+               142007,
+               142146,
+               142324,
+               142592,
+               142660,
+               142702
+          ],
+          "transformTo": "none"
+     },
+     "title-giga": {
+          "htmlDependences": [
+               51193
+          ],
+          "cssDependences": [
+               105268,
+               105722
+          ],
+          "transformTo": "none"
+     },
+     "ct--all-customers__all-customers": {
+          "htmlDependences": [
+               51579
+          ],
+          "cssDependences": [
+               122813,
+               122890,
+               122956,
+               123671,
+               123730,
+               123841
+          ],
+          "transformTo": "none"
+     },
+     "ct--all-customers__all-customers__logo": {
+          "htmlDependences": [
+               51708,
+               52169,
+               52637,
+               53091,
+               53550,
+               54002,
+               54491,
+               54956,
+               55412,
+               55875,
+               56334,
+               56792,
+               57262,
+               57727,
+               58196,
+               58666,
+               59139,
+               59603,
+               60058,
+               60517,
+               60998,
+               61461,
+               61933,
+               62386,
+               62838,
+               63303,
+               63766,
+               64230,
+               64684,
+               65136
+          ],
+          "cssDependences": [
+               123022,
+               123088,
+               123197
+          ],
+          "transformTo": "none"
+     },
+     "js-logo": {
+          "htmlDependences": [
+               51747,
+               52208,
+               52676,
+               53130,
+               53589,
+               54041,
+               54530,
+               54995,
+               55451,
+               55914,
+               56373,
+               56831,
+               57301,
+               57766,
+               58235,
+               58705,
+               59178,
+               59642,
+               60097,
+               60556,
+               61037,
+               61500,
+               61972,
+               62425,
+               62877,
+               63342,
+               63805,
+               64269,
+               64723,
+               65175
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-clients__line": {
+          "htmlDependences": [
+               65687
+          ],
+          "cssDependences": [
+               104798
+          ],
+          "transformTo": "none"
+     },
+     "hp-clients__cta": {
+          "htmlDependences": [
+               65843
+          ],
+          "cssDependences": [
+               104891
+          ],
+          "transformTo": "none"
+     },
+     "ct--hp-news": {
+          "htmlDependences": [
+               66793
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-news": {
+          "htmlDependences": [
+               66805
+          ],
+          "cssDependences": [
+               100371,
+               100399,
+               100471,
+               105409,
+               105869
+          ],
+          "transformTo": "none"
+     },
+     "hp-news__wrapper": {
+          "htmlDependences": [
+               66873
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-news__container": {
+          "htmlDependences": [
+               67264
+          ],
+          "cssDependences": [
+               100604
+          ],
+          "transformTo": "none"
+     },
+     "hp-news__title-container": {
+          "htmlDependences": [
+               67317
+          ],
+          "cssDependences": [
+               100664,
+               100731,
+               100858
+          ],
+          "transformTo": "none"
+     },
+     "hp-news__title": {
+          "htmlDependences": [
+               67377
+          ],
+          "cssDependences": [
+               100928,
+               101008,
+               105448,
+               105910
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-news__title": {
+          "htmlDependences": [
+               67392
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-news__cards": {
+          "htmlDependences": [
+               67786
+          ],
+          "cssDependences": [
+               101053,
+               101213,
+               101265,
+               101314,
+               101428,
+               101657,
+               101735,
+               101961,
+               102046,
+               102285,
+               102824,
+               102924,
+               102958,
+               103065,
+               103972,
+               104249,
+               104331,
+               104458
+          ],
+          "transformTo": "none"
+     },
+     "js-hp-news__cards": {
+          "htmlDependences": [
+               67801
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--news-card": {
+          "htmlDependences": [
+               67882,
+               71312,
+               74898
+          ],
+          "cssDependences": [
+               100480,
+               100539,
+               101281,
+               101330,
+               101365,
+               101444,
+               101673,
+               101751,
+               101977,
+               102062,
+               102301,
+               102363,
+               102421,
+               102480,
+               102541,
+               102597,
+               102840,
+               102940,
+               102974,
+               103081,
+               103988,
+               104058,
+               104347,
+               104474,
+               135552,
+               135593,
+               137518,
+               137643,
+               137802,
+               137955,
+               138110,
+               138257,
+               138381
+          ],
+          "transformTo": "none"
+     },
+     "js-ct--news-card": {
+          "htmlDependences": [
+               67896,
+               71326,
+               74912
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js--news-item": {
+          "htmlDependences": [
+               67913,
+               71343,
+               74929
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "not-animate": {
+          "htmlDependences": [
+               67927,
+               71357,
+               74943
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--news-card__line": {
+          "htmlDependences": [
+               68043,
+               71473,
+               75059
+          ],
+          "cssDependences": [
+               135629,
+               137594
+          ],
+          "transformTo": "none"
+     },
+     "ct--news-card__heading": {
+          "htmlDependences": [
+               68214,
+               71644,
+               75230
+          ],
+          "cssDependences": [
+               135843,
+               137722
+          ],
+          "transformTo": "none"
+     },
+     "ct--news-card__heading__category": {
+          "htmlDependences": [
+               68290,
+               71720,
+               75306
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--news-card__heading__date": {
+          "htmlDependences": [
+               68438,
+               71861,
+               75448
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--news-card__illu": {
+          "htmlDependences": [
+               68615,
+               72035,
+               75622
+          ],
+          "cssDependences": [
+               136429,
+               136472,
+               136573,
+               136645,
+               136939,
+               136998,
+               137878
+          ],
+          "transformTo": "none"
+     },
+     "duration": {
+          "htmlDependences": [
+               70143,
+               73540,
+               77130
+          ],
+          "cssDependences": [
+               136666,
+               136960
+          ],
+          "transformTo": "none"
+     },
+     "little-text--caps-bold": {
+          "htmlDependences": [
+               70164,
+               73561,
+               77151,
+               82206,
+               82674
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--news-card__title": {
+          "htmlDependences": [
+               70362,
+               73759,
+               77350
+          ],
+          "cssDependences": [
+               137076,
+               138032
+          ],
+          "transformTo": "none"
+     },
+     "ct--news-card__p": {
+          "htmlDependences": [
+               71000,
+               74330,
+               77909
+          ],
+          "cssDependences": [
+               138183,
+               138575
+          ],
+          "transformTo": "none"
+     },
+     "p--normal": {
+          "htmlDependences": [
+               71019,
+               74349,
+               77928,
+               81247,
+               81579
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "hp-news__line": {
+          "htmlDependences": [
+               78402
+          ],
+          "cssDependences": [
+               104129
+          ],
+          "transformTo": "none"
+     },
+     "hp-news__cta": {
+          "htmlDependences": [
+               78555
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "ct--footer": {
+          "htmlDependences": [
+               79713
+          ],
+          "cssDependences": [
+               65370,
+               65515,
+               65852,
+               66038
+          ],
+          "transformTo": "none"
+     },
+     "c-full--top": {
+          "htmlDependences": [
+               79755
+          ],
+          "cssDependences": [
+               67126
+          ],
+          "transformTo": "none"
+     },
+     "line--about": {
+          "htmlDependences": [
+               79836
+          ],
+          "cssDependences": [
+               64336,
+               66069
+          ],
+          "transformTo": "none"
+     },
+     "line--about__col": {
+          "htmlDependences": [
+               79878,
+               80841
+          ],
+          "cssDependences": [
+               65485,
+               65625,
+               65810
+          ],
+          "transformTo": "none"
+     },
+     "c-4": {
+          "htmlDependences": [
+               79895,
+               81984
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "m-1": {
+          "htmlDependences": [
+               79899,
+               80862,
+               81881,
+               81988,
+               85453,
+               86197
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "line--about__col__title": {
+          "htmlDependences": [
+               79934,
+               80917
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "title-mega": {
+          "htmlDependences": [
+               79958,
+               80941
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "c-5": {
+          "htmlDependences": [
+               80858
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-dont-be-boring": {
+          "htmlDependences": [
+               80952
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "adress": {
+          "htmlDependences": [
+               81086
+          ],
+          "cssDependences": [
+               65562
+          ],
+          "transformTo": "none"
+     },
+     "adress__box": {
+          "htmlDependences": [
+               81127,
+               81453
+          ],
+          "cssDependences": [
+               65643,
+               65722
+          ],
+          "transformTo": "none"
+     },
+     "adress__box--title": {
+          "htmlDependences": [
+               81178,
+               81504
+          ],
+          "cssDependences": [
+               65899
+          ],
+          "transformTo": "none"
+     },
+     "line--separator": {
+          "htmlDependences": [
+               81865
+          ],
+          "cssDependences": [
+               64421
+          ],
+          "transformTo": "none"
+     },
+     "c-10": {
+          "htmlDependences": [
+               81885
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "line--nav": {
+          "htmlDependences": [
+               81929
+          ],
+          "cssDependences": [
+               64552,
+               64653,
+               64754,
+               64871,
+               66167,
+               66263,
+               66361,
+               66568,
+               66685,
+               66780,
+               66868,
+               66958,
+               67044
+          ],
+          "transformTo": "none"
+     },
+     "line--nav__col": {
+          "htmlDependences": [
+               81969,
+               83014
+          ],
+          "cssDependences": [
+               65546,
+               65706,
+               65883
+          ],
+          "transformTo": "none"
+     },
+     "js-ajax-link-footer": {
+          "htmlDependences": [
+               82229,
+               82697
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "m-4": {
+          "htmlDependences": [
+               83037
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "c-2": {
+          "htmlDependences": [
+               83041
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "socials-list": {
+          "htmlDependences": [
+               83076
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "svg-social-network-facebook": {
+          "htmlDependences": [
+               83931
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "c-full--bottom": {
+          "htmlDependences": [
+               85307
+          ],
+          "cssDependences": [
+               64259,
+               67178,
+               67229,
+               67331,
+               67420,
+               67518,
+               67608
+          ],
+          "transformTo": "none"
+     },
+     "little-text--caps": {
+          "htmlDependences": [
+               85418,
+               86175
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "col--menu-bottom": {
+          "htmlDependences": [
+               85436
+          ],
+          "cssDependences": [
+               67447,
+               67545
+          ],
+          "transformTo": "none"
+     },
+     "c-8": {
+          "htmlDependences": [
+               85457
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "langs": {
+          "htmlDependences": [
+               86157
+          ],
+          "cssDependences": [
+               67635
+          ],
+          "transformTo": "none"
+     },
+     "c-1": {
+          "htmlDependences": [
+               86193
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "langs-footer": {
+          "htmlDependences": [
+               86230
+          ],
+          "cssDependences": [
+               64966,
+               65035,
+               65107,
+               65188,
+               67358
+          ],
+          "transformTo": "none"
+     },
+     "lang": {
+          "htmlDependences": [
+               86306,
+               86474
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "active": {
+          "htmlDependences": [
+               86311
+          ],
+          "cssDependences": [
+               65124,
+               67642,
+               122783
+          ],
+          "transformTo": "none"
+     },
+     "js-ajax-lang": {
+          "htmlDependences": [
+               86479
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "no-ajax": {
+          "htmlDependences": [
+               86492
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "gl-video": {
+          "htmlDependences": [
+               86927
+          ],
+          "cssDependences": [
+               55655,
+               55871
+          ],
+          "transformTo": "none"
+     },
+     "rotate-device": {
+          "htmlDependences": [
+               89624
+          ],
+          "cssDependences": [
+               59380,
+               59616,
+               59658,
+               59734
+          ],
+          "transformTo": "none"
+     },
+     "show": {
+          "htmlDependences": [
+               89638
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "js-rotate-container": {
+          "htmlDependences": [
+               89643
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "content": {
+          "htmlDependences": [
+               89683
+          ],
+          "cssDependences": [
+               59673,
+               59749
+          ],
+          "transformTo": "none"
+     },
+     "title-kilo": {
+          "htmlDependences": [
+               89714
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     },
+     "svg-rotate-desktop": {
+          "htmlDependences": [
+               89782
+          ],
+          "cssDependences": [],
+          "transformTo": "none"
+     }
+}
